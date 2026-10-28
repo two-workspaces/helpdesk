@@ -1,0 +1,10 @@
+{
+  "name": "Helpdesk | Frappe's Open-Source Zendesk Alternative",
+  "short_name": "Helpdesk",
+  "description": "Frappe Helpdesk: ticketing, SLAs, agent portal and nightly backups",
+  "category": "Other",
+  "image": "https://raw.githubusercontent.com/frappe/helpdesk/main/.github/hd-logo.svg",
+  "card_desc": "Frappe Helpdesk with tickets, SLAs, a customer portal and knowledge base, automatic migrations and nightly backups to a Railway bucket.",
+  "deploy_marker": "two-workspaces/erpnext",
+  "card_source": "https://github.com/two-workspaces/erpnext"
+}
